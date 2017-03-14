@@ -1,4 +1,12 @@
-QTs for Windows, Mac OSX and Linux (64 bit). I do not know if the Linux will work as crossing over to a new environment can distress poor Linux. But cd into its location and try:  
+QTs for Windows, Mac OSX and Linux (64 bit). 
+
+-----
+
+Re: Linux (compiled Ubuntu-16, 64 bit)
+
+-----
+
+I do not know if the Linux will work as crossing over to a new environment can distress poor Linux. But cd into its location and try:  
 
 chmod +x BDSM-FETISH-qt
 
